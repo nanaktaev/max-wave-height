@@ -1,0 +1,6 @@
+flask
+flask-cors
+xarray
+numpy
+netcdf4
+scipy
